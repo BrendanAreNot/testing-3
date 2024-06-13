@@ -4,4 +4,4 @@ I am editing this new document.
 
 Now I am editing this document using GitHub
 
-Line 7 was changed by Eclipse.
+Line 7 was changed on both GitHub and Eclipse, causing a merge conflict!
