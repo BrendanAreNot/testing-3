@@ -3,3 +3,5 @@ This is a new document.
 I am editing this new document.
 
 Now I am editing this document using GitHub
+
+Line 7 was changed by Eclipse.
